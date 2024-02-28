@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #include "PhysCrick.h"
 
 void kSim::Sim_Crick_Struct::calcAccelQuatStg1(kMath::kMatrix& equations, double* VL) {

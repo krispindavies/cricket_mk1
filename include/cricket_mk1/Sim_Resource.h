@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #ifndef SIM_RESOURCE_H_
 #define SIM_RESOURCE_H_
 

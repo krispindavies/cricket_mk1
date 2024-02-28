@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #include "Sim_Resource.h"
 #include "Simulation_Controls.h"
 

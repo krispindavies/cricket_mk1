@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #ifndef SIMULATION_CONTROLS_H_
 #define SIMULATION_CONTROLS_H_
 

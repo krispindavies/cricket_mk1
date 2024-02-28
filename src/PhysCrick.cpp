@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #include "PhysCrick.h"
 
 // This function simply goes through all of the BODY variables and sets them to zero.

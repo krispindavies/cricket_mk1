@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #ifndef KOS_CONTROLLER_H_
 #define KOS_CONTROLLER_H_
 

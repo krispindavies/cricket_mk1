@@ -1,3 +1,6 @@
+// Copyright (c) 2024 Krispin Davies
+// SPDX-License-Identifier: BSD-3-Clause
+
 #ifndef PHYSCRICK_H_
 #define PHYSCRICK_H_
 
